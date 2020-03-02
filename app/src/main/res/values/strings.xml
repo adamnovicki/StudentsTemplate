@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudentsTemplate</string>
+    <string name="error_title">Error</string>
+    <string name="error_cancel">Cancel</string>
+    <string name="error_try_again">Retry</string>
+    <string name="temp">Temperature: %1$d \u2103</string>
+    <string name="wind">Wind speed: %1$d km/h</string>
+</resources>
